@@ -24,8 +24,9 @@
 [<img align="left" alt="imshubhu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/imshubhu.gif?z=6)](https://github4life.herokuapp.com/imshubhu)
+# GitHub 4 Life
+
+[![Shubhu's contribution graph as a Game of Life](https://github4life.herokuapp.com/imshubhu.gif)](https://github4life.herokuapp.com/imshubhu)
 
 ### Languages and Tools:
 
@@ -46,19 +47,16 @@
 <br />
 <br />
 
----
+
 ![Shubhu's github stats](https://github-readme-stats.vercel.app/api?username=imshubhu&show_icons=true&theme=dracula)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
 <br />
 
 <a href="https://github.com/imshubhu/CleanIndia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=CleanIndia&theme=dracula" />
 </a>
----
 
-
----
 [website]: https://codepen.io/imshubhu
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
