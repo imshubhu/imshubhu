@@ -44,7 +44,14 @@
 ![Shubhu's github stats](https://github-readme-stats.vercel.app/api?username=imshubhu&show_icons=true&theme=dracula)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
+<br />
 
+<a href="https://github.com/imshubhu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/imshubhu/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=convoychat" />
+</a>
 
 [website]: https://codepen.io/imshubhu
 [twitter]: https://twitter.com/
