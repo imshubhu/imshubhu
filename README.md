@@ -41,9 +41,9 @@
 <br />
 
 ---
-![Shubhu's github stats](https://imshubhu.vercel.app/api?username=imshubhu&show_icons=true&theme=dracula)
+![Shubhu's github stats](https://github-readme-stats.vercel.app/api?username=imshubhu&show_icons=true&theme=dracula)
 <br/>
-[![Top Langs](https://imshubhu-git-master.imshubhu.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
 <br />
 
 <a href="https://github.com/imshubhu/CleanIndia">
