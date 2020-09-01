@@ -8,8 +8,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/imshubhu/count.svg" />
 </p>
-## I'm a Web Developer, Gamer and Editor
 
+## I'm a Web Developer, Gamer and Editor
 - 🔭 I’m currently working on a Adore India!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Job 
@@ -25,8 +25,8 @@
 
 <br />
 <br/>
-### GitHub 4 Life
 
+## Github for Life:
 [![Shubhu's contribution graph as a Game of Life](https://github4life.herokuapp.com/imshubhu.gif)](https://github4life.herokuapp.com/imshubhu)
 
 ### Languages and Tools:
