@@ -53,6 +53,9 @@
 <a href="https://github.com/imshubhu/CleanIndia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=CleanIndia&theme=dracula" />
 </a>
+---
+
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#119](https://github.com//docsifyjs/docsify-cli/pull/119) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
 2. 🗣 Commented on [#8](https://github.com//jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
@@ -60,6 +63,7 @@
 4. 🗣 Commented on [#7](https://github.com//hoppscotch/hopp-doc-gen/issues/7) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
 5. 💪 Opened PR [#1127](https://github.com//hoppscotch/hoppscotch/pull/1127) in [hoppscotch/hoppscotch](https://github.com//hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
+---
 [website]: https://codepen.io/imshubhu
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
