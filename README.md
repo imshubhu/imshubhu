@@ -57,7 +57,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#119](https://github.com//docsifyjs/docsify-cli/pull/119) in [docsifyjs/docsify-cli](https://github.com//docsifyjs/docsify-cli)
+2. 🗣 Commented on [#8](https://github.com//jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 ---
 [website]: https://codepen.io/imshubhu
