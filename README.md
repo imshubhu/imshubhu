@@ -53,7 +53,9 @@
 <a href="https://github.com/imshubhu/CleanIndia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=CleanIndia&theme=dracula" />
 </a>
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 [website]: https://codepen.io/imshubhu
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
