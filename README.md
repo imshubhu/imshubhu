@@ -24,7 +24,8 @@
 [<img align="left" alt="imshubhu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-# GitHub 4 Life
+<br/>
+### GitHub 4 Life
 
 [![Shubhu's contribution graph as a Game of Life](https://github4life.herokuapp.com/imshubhu.gif)](https://github4life.herokuapp.com/imshubhu)
 
