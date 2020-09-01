@@ -4,7 +4,10 @@
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/imshubhu/count.svg" />
+</p>
 ## I'm a Web Developer, Gamer and Editor
 
 - 🔭 I’m currently working on a Adore India!
@@ -21,6 +24,8 @@
 [<img align="left" alt="imshubhu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+## My GitHub contributions as a Game of Life
+[![GitHub Game of Life](https://github4life.herokuapp.com/imshubhu.gif?z=6)](https://github4life.herokuapp.com/imshubhu)
 
 ### Languages and Tools:
 
