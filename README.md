@@ -46,11 +46,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
 <br />
 
-<a href="https://github.com/imshubhu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=github-readme-stats" />
+<a href="https://github.com/imshubhu/chat-simplejs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=chat-simplejs&theme=dracula />
 </a>
-<a href="https://github.com/imshubhu/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=convoychat" />
+<a href="https://github.com/imshubhu/CleanIndia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=CleanIndia&theme=dracula" />
 </a>
 
 [website]: https://codepen.io/imshubhu
