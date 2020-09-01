@@ -1,6 +1,7 @@
 ### Hi there, I'm Shubham Lohar Nice to Meet You 👋
 
-https://img.shields.io/website?up_color=blue&up_message=online&url=https%3A%2F%2Fcodepen.io%2Fimshubhu
+[![Website](https://img.shields.io/website?label=CodePen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fimshubhu)](https://codepen.io/imshubhu)
+
 
 ## I'm a Web Developer, Gamer and Editor
 
