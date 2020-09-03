@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham Lohar Nice to Meet You 👋
 
 [![Website](https://img.shields.io/website?label=CodePen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fimshubhu)](https://codepen.io/imshubhu)
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&url=techshubhu@gmail.com" />
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <p align="center"> 
