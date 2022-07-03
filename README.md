@@ -10,18 +10,13 @@
 </p>
 
 ## I'm a Web Developer, Gamer and Editor
-- 🔭 I’m currently working on a Adore India!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Job 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on a DayDreamSoft!
+- 🌱 I love Javascript🥰 and try to learn new things everyday. 
 - ⚡ Fun fact: I love to watch anime and cooking is also my favourite thing 
 
 ### Connect with me:
 
-[<img align="left" alt="imshubhu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="imshubhu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="imshubhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="imshubhu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br/>
@@ -54,13 +49,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
 <br />
 
-<a href="https://github.com/imshubhu/CleanIndia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhu&repo=CleanIndia&theme=dracula" />
-</a>
-
 [website]: https://codepen.io/imshubhu
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/i_m_shubhu._
 [linkedin]: https://linkedin.com/in/shubham-lohar-467531161
 
