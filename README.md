@@ -1,29 +1,15 @@
-### Hi there, I'm Shubham Lohar Nice to Meet You 👋
+<h4> Hi there <img src="https://raw.githubusercontent.com/imshubhu/imshubhu/master/assets/hand.gif" width="30px"></h4>
 
-[![Website](https://img.shields.io/website?label=CodePen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io%2Fimshubhu)](https://codepen.io/imshubhu)
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&url=techshubhu@gmail.com" />
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/imshubhu/count.svg" />
-</p>
+I'm [Shubham Lohar](https://imshubhu.vercel.app/), an experienced full stack web developer and technical writer at [Medium](https://medium.com/@techshubhu).
 
-## I'm a Web Developer, Gamer and Editor
-- 🔭 I’m currently working on a DayDreamSoft!
-- 🌱 I love Javascript🥰 and try to learn new things everyday. 
-- ⚡ Fun fact: I love to watch anime and cooking is also my favourite thing 
-
-### Connect with me:
-
-[<img align="left" alt="imshubhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
+## About Me
+- 🔭 I’m currently working on a Implies Solution as a Senior Web Developer!
+- 🌱 I love Javascript🥰 and try to learn new things everyday.
 
 <br />
 <br/>
-
-## Github for Life:
-[![Shubhu's contribution graph as a Game of Life](https://github4life.herokuapp.com/imshubhu.gif)](https://github4life.herokuapp.com/imshubhu)
-
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
@@ -42,13 +28,25 @@
 
 <br />
 <br />
-
+---
 
 ![Shubhu's github stats](https://github-readme-stats.vercel.app/api?username=imshubhu&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
 <br />
+---
+
+### Let's Connect:
+
+[<img align="left" alt="imshubhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="imshubhu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="imshubhu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<br />
+---
+
+#### Made with ❤️
 
 [website]: https://codepen.io/imshubhu
 [linkedin]: https://linkedin.com/in/shubham-lohar-467531161
-
+[medium]: https://medium.com/@techshubhu
+[gmail]: mailto:techshubhu@gmail.com
