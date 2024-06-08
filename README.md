@@ -8,7 +8,7 @@ I'm [Shubham Lohar](https://imshubhu.vercel.app/), an experienced full stack web
 - 🌱 I love Javascript🥰 and try to learn new things everyday.
 
 <br />
-<br/>
+
 ---
 ### Languages and Tools:
 
@@ -27,24 +27,23 @@ I'm [Shubham Lohar](https://imshubhu.vercel.app/), an experienced full stack web
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
 <br />
-<br />
----
 
+---
 ![Shubhu's github stats](https://github-readme-stats.vercel.app/api?username=imshubhu&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhu&layout=compact)](https://github.com/imshubhu/github-readme-stats)
 <br />
----
 
+---
 ### Let's Connect:
 
 [<img align="left" alt="imshubhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="imshubhu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="imshubhu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
----
 
-#### Made with ❤️
+---
+#### Made with ❤️ by Shubham
 
 [website]: https://codepen.io/imshubhu
 [linkedin]: https://linkedin.com/in/shubham-lohar-467531161
